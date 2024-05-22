@@ -10,8 +10,11 @@ Google Share Doc for project: https://docs.google.com/document/d/10Mhbx40Ed-hRAj
 
 ### Dataset
 ArtEmis: Affective Language for Visual Art
+
 **Home Page**: https://www.artemisdataset.org/
+
 **Paper**: https://openaccess.thecvf.com/content/CVPR2021/papers/Achlioptas_ArtEmis_Affective_Language_for_Visual_Art_CVPR_2021_paper.pdf 
+
 **Introduction:**
 The ArtEmis dataset is built on top of the publicly available WikiArt dataset which contains 80,031 unique and carefully curated artworks from 1,119 artists (as downloaded in 2015).
 
