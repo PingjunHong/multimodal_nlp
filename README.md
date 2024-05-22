@@ -14,6 +14,8 @@ This project is conducted by Longfei Zuo, Xiaoyu Zhao and Pingjun Hong under the
 
 **17.07.24:** Project Final Presentation
 
+*Coding and paper writing sections:* 14.05.24, 11.06.24, 09.07.24, 16.07.24 (Finalizing and publishing the git repo)
+
 ### About the course: Erweiterungsmodul Computerlinguistik
 Moddle Home Page for Vorlesung: https://moodle.lmu.de/course/view.php?id=34505
 
