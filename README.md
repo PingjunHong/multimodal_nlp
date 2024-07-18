@@ -3,7 +3,7 @@
 ### Overview
 This repository contains the code and related files for our Multimodality Project
 
-This project is conducted by Longfei Zuo, Xiaoyu Zhao and Pingjun Hong under the structure of the course Erweiterungsmodul Computerlinguistik at LMU
+This project is conducted by Longfei Zuo, Xiaoyu Zhao, Pingjun Hong and Zhen Wang under the structure of the course Erweiterungsmodul Computerlinguistik at LMU
 
 ### Project Timeline
 **22.05.24:** Project Presentation - Initial
@@ -39,9 +39,11 @@ ArtEmis: Affective Language for Visual Art
 The ArtEmis dataset is built on top of the publicly available WikiArt dataset which contains 80,031 unique and carefully curated artworks from 1,119 artists (as downloaded in 2015).
 
 ### Models
-IDEPICS: https://huggingface.co/HuggingFaceM4/idefics-80b-instruct 
+IDEFICS: https://huggingface.co/HuggingFaceM4/idefics-9b-instruct 
 
-IDEPICS Playground: https://huggingface.co/spaces/HuggingFaceM4/idefics_playground
+IDEFICS Playground: https://huggingface.co/spaces/HuggingFaceM4/idefics_playground
+
+BLIP: https://huggingface.co/docs/transformers/model_doc/blip
 
 
 
