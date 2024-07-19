@@ -1,0 +1,43 @@
+Using same data,Acc,,,,,,,,
+,shot_label,,,,,,,,
+,prompt in,prompt in,prompt in,prompt in,prompt in,prompt in,prompt in,prompt in,
+emotion,contentment,excitement,fear,Sadness,disgust,awe,anger,amusement      ,
+amusement      ,0.909091,1.000000,0.818182,0.727273,0.727273,1.000000,1.000000,1.000000,
+awe            ,0.533333,0.733333,0.733333,0.600000,0.800000,0.933333,0.733333,0.666667,
+contentment    ,0.923077,0.615385,0.641026,0.692308,0.615385,0.615385,0.641026,0.512821,
+disgust        ,0.800000,0.800000,0.400000,0.600000,1.000000,0.600000,0.800000,0.600000,
+excitement     ,0.444444,0.888889,0.666667,0.666667,0.555556,0.444444,0.555556,0.222222,
+fear           ,0.444444,0.666667,1.000000,0.333333,0.333333,0.777778,0.333333,0.444444,
+sadness        ,0.833333,0.916667,0.833333,1.000000,0.750000,0.833333,0.833333,0.916667,
+No anger,,,,,,,,,
+Data distribution:,,,,,,,,,
+,contentment    39,contentment    0.39,,,,,,,
+,awe            15,awe            0.15,,,,,,,
+,sadness        12,sadness        0.12,,,,,,,
+,amusement      11,amusement      0.11,,,,,,,
+,excitement      9,excitement     0.09,,,,,,,
+,fear            9,fear           0.09,,,,,,,
+,disgust         5,disgust        0.05,,,,,,,
+,,,,,,,,,
+Using different data,Acc,,,,,,,,
+,emotion,contentment,excitement,awe,amusement      ,fear,Sadness,disgust,anger
+prompt in,contentment    ,0.97,0.6,0.25,0.85,0.69,0.73,0.88,0
+prompt in ,excitement     ,0.86,0.5,0.56,0.93,0.82,0.75,0.8,
+prompt in,awe            ,0.74,0.33,0.83,0.75,0.86,0.89,1,
+prompt in,amusement      ,0.51,0.22,0.67,1,0.44,0.91,0.60,
+prompt in,fear           ,0.8,0.67,0.67,0.75,1,0.82,0.75,0
+prompt in,sadness        ,0.89,0.4,0.62,0.84,0.63,1,,0
+prompt in,disgust        ,0.77,0.83,0.65,0.64,0.3,0.9,1,0
+prompt in,anger,0.83,0.60,0.52,1,0.64,0.89,1,
+,,,,,,,,,
+Using different data,F1,,,,,,,,
+,emotion,contentment,excitement,awe,amusement      ,fear,Sadness,disgust,anger
+prompt in,contentment    ,0.79,0.60,0.40,0.88,0.75,0.80,0.74,0
+prompt in ,excitement     ,0.90,0.32,0.67,0.85,0.86,0.80,0.73,
+prompt in,awe            ,0.80,0.50,0.70,0.75,0.89,0.94,0.77,
+prompt in,amusement      ,0.66,0.36,0.80,0.43,0.57,0.85,0.60,
+prompt in,fear           ,0.88,0.57,0.8,0.69,0.67,0.88,0.67,0
+prompt in,sadness        ,0.75,0.44,0.76,0.80,0.74,0.74,,0
+prompt in,disgust        ,0.83,0.83,0.76,0.67,0.46,0.95,0.28,0.79
+prompt in,anger,0.88,0.75,0.69,0.65,0.78,0.94,0.67,
+prompt in,zero shot,0.67,0.36,0.80,0.43,0.57,0.85,0.60,
