@@ -1,4 +1,5 @@
-# Multimodality Project - Erweiterungsmodul Computerlinguistik Sommersemester 2024
+# Exploring Explainability in Multimodal Emotion Prediction: A Comparative Study on the ARTEMIS Dataset
+## Multimodality Project - Erweiterungsmodul Computerlinguistik Sommersemester 2024
 
 ### Overview
 This repository contains the code and related files for our Multimodality Project
@@ -8,8 +9,6 @@ This project is conducted by Longfei Zuo, Xiaoyu Zhao, Pingjun Hong and Zhen Wan
 
 ### Project Updates
 Overleaf Link: https://www.overleaf.com/7772528279mnfwpnssndbw#f81f91
-
-Google Share Doc for project: https://docs.google.com/document/d/10Mhbx40Ed-hRAjHXA_j1XFVP57qbgBJe8vMA8JiKBsc/edit?userstoinvite=zgxy912@gmail.com&sharingaction=manageaccess&role=writer
 
 **Maybe change authority limits** \
 Kich-off presentation: https://docs.google.com/presentation/d/17DKFn-lbR3HGIqx4q-S6om0qI7yIKsnMMCJ-dqQek7I/edit#slide=id.p
@@ -26,6 +25,14 @@ ArtEmis: Affective Language for Visual Art
 
 **Introduction:**
 The ArtEmis dataset is built on top of the publicly available WikiArt dataset which contains 80,031 unique and carefully curated artworks from 1,119 artists (as downloaded in 2015).
+
+WikiArt | All images (120k+)
+**Home Page**: https://www.kaggle.com/datasets/antoinegruson/-wikiart-all-images-120k-link?resource=download
+
+**Introduction:**
+WikiArt images links, scraped from WikiArt https://www.wikiart.org/en/paintings-by-style
+
+5 columns: Style, Artwork Name, Artist, Date, Link
 
 ### Models
 IDEFICS: https://huggingface.co/HuggingFaceM4/idefics-9b-instruct 
