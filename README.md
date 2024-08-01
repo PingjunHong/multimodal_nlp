@@ -2,18 +2,13 @@
 ## Multimodality Project - Erweiterungsmodul Computerlinguistik Sommersemester 2024
 
 ### Overview
-This repository contains the code and related files for our Multimodality Project
+This repository contains the code and related files for our Multimodality Project: **Exploring Explainability in Multimodal Emotion Prediction: A Comparative Study on the ARTEMIS Dataset**
 
 This project is conducted by Longfei Zuo, Xiaoyu Zhao, Pingjun Hong and Zhen Wang under the structure of the course Erweiterungsmodul Computerlinguistik at LMU
 
 
 ### Project Updates
 Overleaf Link: https://www.overleaf.com/7772528279mnfwpnssndbw#f81f91
-
-**Maybe change authority limits** \
-Kich-off presentation: https://docs.google.com/presentation/d/17DKFn-lbR3HGIqx4q-S6om0qI7yIKsnMMCJ-dqQek7I/edit#slide=id.p
-
-Final presentation: https://docs.google.com/presentation/d/1wVuIPzdTQquLe_F4hkC7ivp_ptZtf_Eec4FnQupccA8/edit#slide=id.g25a9ed7ad31_1_1748
 
 
 ### Dataset
@@ -39,7 +34,7 @@ IDEFICS: https://huggingface.co/HuggingFaceM4/idefics-9b-instruct
 
 IDEFICS Playground: https://huggingface.co/spaces/HuggingFaceM4/idefics_playground
 
-BLIP: https://huggingface.co/docs/transformers/model_doc/blip
+CLIP: https://huggingface.co/docs/transformers/model_doc/blip](https://huggingface.co/docs/transformers/en/model_doc/clip
 
 ### About the course: Erweiterungsmodul Computerlinguistik
 Moddle Home Page for Vorlesung: https://moodle.lmu.de/course/view.php?id=34505
