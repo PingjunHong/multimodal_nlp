@@ -22,6 +22,7 @@ ArtEmis: Affective Language for Visual Art
 The ArtEmis dataset is built on top of the publicly available WikiArt dataset which contains 80,031 unique and carefully curated artworks from 1,119 artists (as downloaded in 2015).
 
 WikiArt | All images (120k+)
+
 **Home Page**: https://www.kaggle.com/datasets/antoinegruson/-wikiart-all-images-120k-link?resource=download
 
 **Introduction:**
